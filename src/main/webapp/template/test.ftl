@@ -8,5 +8,6 @@
     <h3>FreeMarker 视图框架</h3>
         <#assign text="Hello">
         ${text}
+        <hr>
     </body>
 </html>
