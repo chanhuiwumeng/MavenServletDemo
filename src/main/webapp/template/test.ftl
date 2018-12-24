@@ -9,5 +9,12 @@
         <#assign text="Hello">
         ${text}
         <hr>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
     </body>
 </html>
